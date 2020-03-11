@@ -1,7 +1,7 @@
 # ProxyBank
 Proxy Bank JEE Project JSP Servelet JPA Beans Filter HTML5 Bootstrap
 
-# Créer des vues et contrôleurs permettant de :
+# Vues et contrôleurs permettant de :
   a. S’authentifier un client ayant le droit de se connecter via un login et un mot de 
     passe.
     
