@@ -1,0 +1,13 @@
+.mfooter{
+    height: 200px;
+    background-color: #202020;
+}
+html,body {
+    height:100%;
+}
+.container.mt-5 {
+    min-height: 100%;
+}
+.container-fluid.mt-5.px-5 {
+    min-height: 100%;
+}
